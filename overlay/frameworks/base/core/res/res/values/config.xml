@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Copyright (C) 2017 The LineageOS Project
@@ -507,10 +506,7 @@
     
     <!-- Whether to use in-built Screen Record service -->
     <bool name="config_showScreenRecord">true</bool>
-    
-    <!-- Whether device ignores the RSSNR signal implementation -->
-    <bool name="config_ignoreRssnrSignalLevel">true</bool>
-    
+        
 	<!-- System info -->
 	<string name="config_sysCPUTemp">/sys/class/thermal/thermal_zone0/temp</string>
 	<string name="config_sysBatteryTemp">/sys/class/power_supply/battery/temp</string>
