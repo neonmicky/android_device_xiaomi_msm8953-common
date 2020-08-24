@@ -128,7 +128,7 @@ PRODUCT_PACKAGES += \
     camera.msm8953 \
     libmm-qcamera \
     libstdc++.vendor \
-    Snap
+    GCamGOPrebuilt
 
 # Display
 PRODUCT_PACKAGES += \
