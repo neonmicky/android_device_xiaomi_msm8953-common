@@ -456,4 +456,12 @@
     which we the system will not show crash, ANR,
          etc. dialogs. --> 
      <string name="config_appsNotReportingCrashes">com.google.android.tts</string>
+
+    <!-- Enable Smart charging -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
+    <!-- Whether device supports sensor based doze customizations -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_dozePulsePickup">true</bool>
+    <bool name="config_dozePulseTilt">true</bool>
 </resources>
