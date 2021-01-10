@@ -481,5 +481,10 @@
     <!-- Enable Smart charging -->
     <bool name="config_smartChargingAvailable">true</bool>
 
+    <!-- Whether device supports sensor based doze customizations -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_dozePulsePickup">true</bool>
+    <bool name="config_dozePulseTilt">true</bool>
+    <bool name="config_dozePulseProximity">true</bool>
 </resources>
 
