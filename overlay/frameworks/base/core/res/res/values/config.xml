@@ -481,6 +481,9 @@
     <!-- Enable Smart charging -->
     <bool name="config_smartChargingAvailable">true</bool>
 
+     <!-- Blank Display After Doze -->
+    <bool name="config_displayBlanksAfterDoze">true</bool>
+
     <!-- Whether device supports sensor based doze customizations -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_dozePulsePickup">true</bool>
