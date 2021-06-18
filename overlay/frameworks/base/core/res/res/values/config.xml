@@ -491,5 +491,8 @@
     <!-- Enable Smart charging -->
     <bool name="config_smartChargingAvailable">true</bool>
 
+     <!-- Blank Display After Doze -->
+    <bool name="config_displayBlanksAfterDoze">true</bool>
+
 </resources>
 
